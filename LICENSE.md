@@ -1,4 +1,4 @@
-# 
+# Profesional Visual Studio Code plantillas para Mac OS | Automático Visual Studio Code plantillas para PC Windows. Con gestión de ramas y gestión de cookies — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
